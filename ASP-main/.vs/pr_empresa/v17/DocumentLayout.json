@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julio\\OneDrive - Universidad Mariano G\u00E1lvez\\Documentos\\ASP-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93A166-29FF-4F43-A7B5-DE236AC55F73}|vista\\pr_web.csproj|c:\\users\\julio\\onedrive - universidad mariano g\u00E1lvez\\documentos\\asp-main\\vista\\empleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8B93A166-29FF-4F43-A7B5-DE236AC55F73}|vista\\pr_web.csproj|solutionrelative:vista\\empleado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663CEC47-00FF-4DB6-8B36-86FAAC1E4C42}|Modelo\\Modelo.csproj|c:\\users\\julio\\onedrive - universidad mariano g\u00E1lvez\\documentos\\asp-main\\modelo\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663CEC47-00FF-4DB6-8B36-86FAAC1E4C42}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663CEC47-00FF-4DB6-8B36-86FAAC1E4C42}|Modelo\\Modelo.csproj|c:\\users\\julio\\onedrive - universidad mariano g\u00E1lvez\\documentos\\asp-main\\modelo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663CEC47-00FF-4DB6-8B36-86FAAC1E4C42}|Modelo\\Modelo.csproj|solutionrelative:modelo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\OneDrive - Universidad Mariano G\u00E1lvez\\Documentos\\ASP-main\\Modelo\\Empleado.cs",
+              "RelativeDocumentMoniker": "Modelo\\Empleado.cs",
+              "ToolTip": "C:\\Users\\julio\\OneDrive - Universidad Mariano G\u00E1lvez\\Documentos\\ASP-main\\Modelo\\Empleado.cs",
+              "RelativeToolTip": "Modelo\\Empleado.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAhwBEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:23:26.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\OneDrive - Universidad Mariano G\u00E1lvez\\Documentos\\ASP-main\\Modelo\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "Modelo\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\julio\\OneDrive - Universidad Mariano G\u00E1lvez\\Documentos\\ASP-main\\Modelo\\ConexionBD.cs",
+              "RelativeToolTip": "Modelo\\ConexionBD.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:11:41.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.aspx",
+              "DocumentMoniker": "C:\\Users\\julio\\OneDrive - Universidad Mariano G\u00E1lvez\\Documentos\\ASP-main\\vista\\Empleado.aspx",
+              "RelativeDocumentMoniker": "vista\\Empleado.aspx",
+              "ToolTip": "C:\\Users\\julio\\OneDrive - Universidad Mariano G\u00E1lvez\\Documentos\\ASP-main\\vista\\Empleado.aspx",
+              "RelativeToolTip": "vista\\Empleado.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-31T04:11:17.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
